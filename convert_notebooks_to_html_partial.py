@@ -45,7 +45,7 @@ NOTEBOOK_IMAGE_DIR = 'notebooks-images'
 
 # The prefix for the interact button links. The path format string gets filled
 # with path to notebook to open from root of repo
-INTERACT_LINK = 'https://mybinder.org/v2/gh/kellieotto/test-book/gh-pages?filepath={path}'
+INTERACT_LINK = 'https://mybinder.org/v2/gh/kellieotto/test-book/master?filepath={path}'
 
 # Used to ensure all the closing div tags are on the same line for Markdown to
 # parse them properly
