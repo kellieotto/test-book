@@ -1,0 +1,5 @@
+numpy
+pandas
+scipy
+matplotlib
+nbinteract==0.0.12

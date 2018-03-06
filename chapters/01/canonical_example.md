@@ -1,0 +1,1 @@
+{% include "../../notebooks-html/canonical_example.html" %}
